@@ -5,7 +5,6 @@ import 'package:chat_me/controller/onbording.dart';
 import 'package:chat_me/core/constant/color.dart';
 import 'package:chat_me/data/static/data_onboarding.dart';
 
-
 class CustomSliderOnBoarding extends GetView<OnBoardingControllerImp> {
   const CustomSliderOnBoarding({Key? key}) : super(key: key);
 
