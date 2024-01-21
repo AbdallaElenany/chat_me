@@ -14,7 +14,7 @@ One of the first simple apps I built during my Flutter learning journey.
 
 ### Screenshots
 
-  <img src="./screenshots/3.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/7.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/4.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/2.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/5.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/5.jpeg?raw=false" width="30%">
+  <img src="./screenshots/3.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/7.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/4.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/2.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/5.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/6.jpeg?raw=false" width="30%">
   
   
 ### Dependencies
