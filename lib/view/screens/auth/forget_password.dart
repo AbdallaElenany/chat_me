@@ -23,7 +23,7 @@ class ForgetPassword extends StatelessWidget {
           title: Text('Forget Password'.tr,
               style: Theme.of(context)
                   .textTheme
-                  .headline1!
+                  .headlineLarge!
                   .copyWith(color: AppColor.grey)),
         ),
         body: GetBuilder<ForgetPasswordControllerImp>(
